@@ -1,4 +1,4 @@
-#calc-spring-app
+# calc-spring-app
 Приложение, созданное для выполнения практического задания в компании Neoflex
 
 ![image](https://github.com/user-attachments/assets/6135a7e0-1647-41f2-bd7b-9016a474a47d)
